@@ -18,36 +18,19 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ## 📚 THEORY
 
-- The central spot carries 95% of the intensity for laser beams with Gaussian profile:  
-  \( I = I_0 e^{-2(r / w)^2} \)  
-  where \( e = 2.718 \) is the base of the natural logarithm.
+The central spot carries 95% of the intensity for laser beams with Gaussian profile. I = Ioe-2(r / w) ^2 where e = 2.718 is the base of the natural logarithm. An accepted definition of a radius of a Gaussian beam is t 0.135 times its peak value Io. This radius is called spot size. The spot diameter is w.
+Spot Diameter (d) micron = Focal length of the Lens (f) mm x Laser beam full divergence angle (DA) mrad.
+In order to achieve maximum coupling efficiency, the fiber core diameter has to be bigger than the spot diameter.
+NA rays = Laser Beam Diameter (B.D.) 2 x Lens Focal Length (f)
+The source coupler is comprised of two base plates. One of the base plates contains a focusing lens
+and a female connector receptacle. The other base plate is attached onto the laser. An O-ring is sandwiched between the base plates. Threaded screws interconnect the two base plates. A screw driver
+to alter the angular orientation of one base plate relative to the	other can then adjust the screws.
+ 
+The number of modes propagating through the fiber depends on V-number. If the fiber whose number is less than 2.045,	it allows to propagate single mode through it, so it is called as Single Mode fiber.
+A Multimode fiber, V-number is slightly greater than 2.045 but the number of allowed modes is small enough that they may be individually identified when the output of the fiber is examined.
+When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode.
+When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
-- The radius of a Gaussian beam is defined as 0.135 times its peak value \( I_0 \). This radius is called the **spot size** and the spot diameter is \( w \).
-
-- **Spot Diameter (d)** in microns:  
-  \( d = f \cdot DA \)  
-  where  
-  \( f \) = Focal length of the lens (mm)  
-  \( DA \) = Laser beam full divergence angle (mrad)
-
-- For maximum coupling efficiency, the fiber core diameter must be larger than the spot diameter.
-
-- **Numerical Aperture (NA) rays**:  
-  \( NA = \frac{B.D. \cdot 2}{f} \)  
-  where  
-  \( B.D. \) = Laser Beam Diameter  
-  \( f \) = Lens Focal Length
-
-- The source coupler consists of two base plates:
-  - One with a focusing lens and female connector receptacle.
-  - The other attached to the laser.
-  - An O-ring is sandwiched between them, held by threaded screws.
-  - Angular orientation is adjusted using a screwdriver.
-
-- **V-number** determines the number of modes:
-  - If \( V < 2.045 \): Single Mode Fiber (HE11 or LP01 mode)
-  - If \( V > 2.045 \): Multimode Fiber
-    - Example: \( V = 4.91 \) → 4 LP modes propagate
 
 ---
 
