@@ -60,4 +60,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![WhatsApp Image 2025-11-19 at 17 53 04_ed237d72](https://github.com/user-attachments/assets/bf9ba9d9-08fa-4c9a-a9c9-33c12502fb0e)
+
 ## Result
+Thus the experiment is verified succesfully.
